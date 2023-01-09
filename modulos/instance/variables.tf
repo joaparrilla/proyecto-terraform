@@ -18,7 +18,7 @@ variable "egress_rule" {
 
 }
 variable "bucket_name" {
-  default = "terraform-backend"
+  default = "bknd-jp"
 }
 variable "acl" {
   default = "private"
